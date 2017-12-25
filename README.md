@@ -11,11 +11,11 @@ A state-of-the-art detector of Boring hats developed at MIT.
 
 ## Comparison to Competitors
 
-|                       |   [Boring Detector][1]  |  [Hot Dog Detector][1]  |
-| --------------------- |:-----------------------:|:-----------------------:|
-| Object localization   |            x            |                         |
-| Boring hat detection  |            x            |                         |
-| Hot dog classifier    |   (under development)   |            x            |
+|                        |   [Boring Detector][1]  |  [Hot Dog Detector][1]  |
+| ---------------------- |:-----------------------:|:-----------------------:|
+| Object localization    |            x            |                         |
+| Boring hat detection   |            x            |                         |
+| Hot dog classification |        (in beta)        |            x            |
 
 [1]: https://lex.mit.edu/boring
 [2]: https://play.google.com/store/apps/details?id=com.seefoodtechnologies.nothotdog&hl=en
