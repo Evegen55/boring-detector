@@ -1,8 +1,8 @@
 # Boring Detector
 
-A state-of-the-art detector of Boring hats. Developed at MIT to solve the global challenge (implicitly posed) by Elon
-Musk of awarding 10 Boring hat owners a Boring tour. Given that 50,000 hats (current sale estimates) cover only 0.001%
-of heads, an automated method for Boring hat detection is needed. 
+A state-of-the-art detector of Boring hats. Developed at MIT to solve the global challenge (implicitly) posed by Elon
+Musk when he declared that 10 Boring hat owners will be awared a Boring tour. Given that 50,000 hats (current sale
+estimates) cover only 0.001% of heads, an automated method for Boring hat detection is needed.
 
 ## Features
 
