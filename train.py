@@ -25,7 +25,7 @@ epochs = 50
 # training_epochs = 10
 
 # paths
-boring_repository_dir = '/home/lex/Dropbox/projects/mit/code/boring-detector'
+boring_repository_dir = os.getcwd() # you can set this manually if you're not calling the script from the top repo directory
 boring_dataset_dir = os.path.join(boring_repository_dir, 'boring-dataset')
 boring_annotations_path = os.path.join(boring_dataset_dir, 'boring-images.csv')
 boring_classes_path = os.path.join(boring_dataset_dir, 'boring-classes.csv')

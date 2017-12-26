@@ -2,7 +2,7 @@
 
 A state-of-the-art detector of Boring hats. Developed at MIT to solve the global challenge (implicitly) posed by Elon
 Musk when he declared that 10 Boring hat owners will be awared a Boring tour. Given that 50,000 hats (current sale
-estimates) cover only 0.001% of heads, an automated method for Boring hat detection is needed.
+estimates) cover less than 0.001% of 7.3 billion heads on Earth, an automated method for Boring hat detection is needed.
 
 The Boring detector is a fine-tuned deep neural network model based on a [Keras implementation][3] of a
 [RetinaNet object detection architecture][4]. The following are some results. The Boring Score is from 0 to 1. Anything
@@ -39,7 +39,7 @@ above a score of 0.5 is considered Boring.
 ## Instructions
 
 If you would like an image or video of your own to be verified by the Boring detector, post it on Instagram or Twitter with
-hashtag __#boring4lex__ (boring for lex). I'll then make links to processed versions of these images/videos here...
+hashtag __#boringdetector__ (boring for lex). I'll then make links to processed versions of these images/videos here...
 
 If you would like to run the network on your own machine, I'll post detailed instructions here soon.
 
