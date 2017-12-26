@@ -5,7 +5,10 @@ Musk when he declared that 10 Boring hat owners will be awared a Boring tour. Gi
 estimates) cover only 0.001% of heads, an automated method for Boring hat detection is needed.
 
 The Boring detector is a fine-tuned deep neural network model based on a [Keras implementation][3] of a
-[RetinaNet object detection architecture][4]. 
+[RetinaNet object detection architecture][4]. The following are some results. The Boring Score is from 0 to 1. Anything
+above a score of 0.5 is considered Boring:
+
+
 
 
 ## Comparison to Competitors
