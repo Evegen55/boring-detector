@@ -8,7 +8,13 @@ The Boring detector is a fine-tuned deep neural network model based on a [Keras 
 [RetinaNet object detection architecture][4]. The following are some results. The Boring Score is from 0 to 1. Anything
 above a score of 0.5 is considered Boring:
 
+![Boring Hat](https://github.com/lexfridman/boring-detector/raw/master/showcase/boring-hat-fast-detected.gif)
 
+![Falcon Heavy](https://github.com/lexfridman/boring-detector/raw/master/showcase/falcon-heavy-detected.gif)
+
+![Holiday Minions](https://github.com/lexfridman/boring-detector/raw/master/showcase/holiday-minions-detected.gif)
+
+![Cat Monkey](https://github.com/lexfridman/boring-detector/raw/master/showcase/cat-monkey-detected.gif)
 
 
 ## Comparison to Competitors
