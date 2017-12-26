@@ -6,8 +6,7 @@ estimates) cover only 0.001% of heads, an automated method for Boring hat detect
 
 The Boring detector is a fine-tuned deep neural network model based on a [Keras implementation][3] of a
 [RetinaNet object detection architecture][4]. The following are some results. The Boring Score is from 0 to 1. Anything
-above a score of 0.5 is considered Boring. If you would like an image or video of your own to be verified by the Boring
-detector, post it on Instagram or Twitter with hashtag __#boring4lex__ (boring for lex).
+above a score of 0.5 is considered Boring.
 
 ![Boring Hat](https://github.com/lexfridman/boring-detector/raw/master/showcase/boring-hat-fast-detected.gif)
 
