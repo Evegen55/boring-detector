@@ -4,16 +4,13 @@ A state-of-the-art detector of Boring hats. Developed at MIT to solve the global
 Musk when he declared that 10 Boring hat owners will be awared a Boring tour. Given that 50,000 hats (current sale
 estimates) cover only 0.001% of heads, an automated method for Boring hat detection is needed.
 
-## Features
+The Boring detector is a fine-tuned deep neural network model based on a [Keras implementation][3] of a
+[RetinaNet object detection architecture][4]. 
 
-### v1.0.0
-
-* Detect Boring hats (including localization of multiple instances).
-* Classify not Boring hats.
 
 ## Comparison to Competitors
 
-|                        |   [Boring Detector][1]  |  [Hot Dog Detector][1]  |
+|                        |   [Boring Detector][1]  |  [Hot Dog Detector][2]  |
 | ---------------------- |:-----------------------:|:-----------------------:|
 | Object localization    |            x            |                         |
 | Boring hat detection   |            x            |                         |
@@ -21,9 +18,15 @@ estimates) cover only 0.001% of heads, an automated method for Boring hat detect
 
 [1]: https://lex.mit.edu/boring
 [2]: https://play.google.com/store/apps/details?id=com.seefoodtechnologies.nothotdog&hl=en
+[3]: https://github.com/fizyr/keras-retinanet 
+[4]: https://arxiv.org/abs/1708.02002
 
 ## Instructions
 
+If you would like an image or video of your own to be verified by the Boring detector, post it on Instagram or Twitter with
+hashtag #boring4lex (boring for lex). I'll then make links to processed versions of these images/videos here...
+
+If you would like to run the network on your own machine, I'll post detailed instructions here soon.
 
 ## License
 
