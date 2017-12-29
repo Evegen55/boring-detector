@@ -1,7 +1,7 @@
 # Boring Detector
 
 A state-of-the-art detector of Boring hats. Developed at MIT to solve the global challenge (implicitly) posed by Elon
-Musk when he declared that 10 Boring hat owners will be awared a Boring tour. Given that 50,000 hats (current sale
+Musk when he declared that 10 Boring hat owners will be awarded a Boring tour. Given that 50,000 hats (current sale
 estimates) cover less than 0.001% of 7.3 billion heads on Earth, an automated method for Boring hat detection is needed.
 
 The Boring detector is a fine-tuned deep neural network model based on a [Keras implementation][3] of a
